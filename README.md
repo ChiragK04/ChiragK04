@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chirag Khandelwal</h1>
-<h3 align="center">A passionate software developer| CSE student from India</h3>
+<h3 align="center">A passionate software developer and Computer Science Engineering student from India</h3>
+
 
 - 🌱 I’m currently learning **Full-stack development,Advanced DSA and AI/ML**
 
