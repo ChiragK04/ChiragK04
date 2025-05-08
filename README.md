@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **chiragk0412@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17q-HjB4gem5o9K6gNE6lXvXhb5iYnl9-/view?usp=sharing](https://drive.google.com/file/d/17q-HjB4gem5o9K6gNE6lXvXhb5iYnl9-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17q-HjB4gem5o9K6gNE6lXvXhb5iYnl9-/view?usp=sharing](https://drive.google.com/file/d/16TG_khhAHX5NoVaXtWTYHoJWJkGGqnBX/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
