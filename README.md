@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full-stack development,Advanced DSA and AI/ML**
+- 🌱 I’m currently learning **Full-stack development, DSA and AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChiragK04](https://github.com/ChiragK04)
 
